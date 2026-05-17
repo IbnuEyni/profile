@@ -1,0 +1,413 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      @page {
+        size: A4;
+        margin: 0.8cm 1.3cm;
+      }
+      body {
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 8.5pt;
+        line-height: 1.25;
+        color: #1a1a1a;
+        margin: 0;
+        padding: 0;
+      }
+      .header {
+        text-align: center;
+        border-bottom: 2px solid #2563eb;
+        padding-bottom: 6px;
+        margin-bottom: 8px;
+      }
+      .header h1 {
+        font-size: 16pt;
+        margin: 0 0 3px 0;
+        color: #111;
+        letter-spacing: 0.5px;
+      }
+      .header .contact {
+        font-size: 8.5pt;
+        color: #444;
+      }
+      .header .contact a {
+        color: #2563eb;
+        text-decoration: none;
+      }
+      .section {
+        margin-bottom: 6px;
+      }
+      .section-title {
+        font-size: 9pt;
+        font-weight: 700;
+        color: #2563eb;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        border-bottom: 1px solid #e5e7eb;
+        padding-bottom: 2px;
+        margin-bottom: 5px;
+      }
+      .summary {
+        font-size: 8.5pt;
+        color: #333;
+        line-height: 1.3;
+      }
+      .job {
+        margin-bottom: 5px;
+      }
+      .job-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+      }
+      .job-title {
+        font-weight: 700;
+        font-size: 9pt;
+        color: #111;
+      }
+      .job-title a {
+        color: #111;
+        text-decoration: none;
+      }
+      .job-date {
+        font-size: 8.5pt;
+        color: #666;
+        white-space: nowrap;
+      }
+      .job-company {
+        font-size: 8.5pt;
+        color: #555;
+        font-style: italic;
+      }
+      .job ul {
+        margin: 2px 0 0 0;
+        padding-left: 14px;
+      }
+      .job li {
+        margin-bottom: 0px;
+        font-size: 8pt;
+        color: #333;
+      }
+      .project {
+        margin-bottom: 4px;
+      }
+      .project-title {
+        font-weight: 700;
+        font-size: 8.5pt;
+        color: #111;
+      }
+      .project-title a {
+        color: #111;
+        text-decoration: none;
+      }
+      .project ul {
+        margin: 2px 0 0 0;
+        padding-left: 14px;
+      }
+      .project li {
+        margin-bottom: 0px;
+        font-size: 8pt;
+        color: #333;
+      }
+      .skills-grid {
+        display: grid;
+        grid-template-columns: 110px 1fr;
+        gap: 1px 8px;
+        font-size: 8pt;
+      }
+      .skills-label {
+        font-weight: 600;
+        color: #444;
+      }
+      .skills-value {
+        color: #333;
+      }
+      .education-header {
+        display: flex;
+        justify-content: space-between;
+      }
+      .education-coursework {
+        font-size: 8.5pt;
+        color: #444;
+        margin-top: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Amir Ahmedin Temam</h1>
+      <div class="contact">
+        shuaibahmedin@gmail.com &nbsp;|&nbsp; +251944838544 &nbsp;|&nbsp; Addis
+        Ababa, Ethiopia<br />
+        <a href="https://github.com/IbnuEyni">GitHub</a> &nbsp;|&nbsp;
+        <a href="https://linkedin.com/in/amir-ahmedin-812349264">LinkedIn</a>
+        &nbsp;|&nbsp;
+        <a href="https://huggingface.co/shuaibam">HuggingFace</a>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Profile Summary</div>
+      <div class="summary">
+        AI Engineer specializing in multi-agent systems, evaluation benchmarks,
+        and production automation pipelines. Shipped 9 AI agent systems in 12
+        weeks — from multi-tool orchestration to domain-specific benchmarks
+        published on HuggingFace. Experienced in LLM integration, RAG
+        architectures, CRM automation, and centralized agent coordination
+        patterns.
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Professional Experience</div>
+
+      <div class="job">
+        <div class="job-header">
+          <span class="job-title"
+            >AI Agent Systems Engineer —
+            <a href="https://10academy.org/">10 Academy</a></span
+          >
+          <span class="job-date">05/2025 – Present</span>
+        </div>
+        <div class="job-company">Remote</div>
+        <ul>
+          <li>
+            Built 9 production-grade AI agent systems across evaluation,
+            orchestration, and data engineering
+          </li>
+          <li>
+            Designed centralized orchestration patterns using LangGraph
+            StateGraph with fan-out/fan-in parallelism
+          </li>
+          <li>
+            Published a domain-specific benchmark (250 tasks) on HuggingFace
+            with a SimPO-trained judge model
+          </li>
+          <li>
+            Achieved 35.2% pass@1 on DataAgentBench through 3-layer context
+            engineering (zero fine-tuning)
+          </li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <span class="job-title"
+            >Back-end Developer Project Lead — NextGen Solutions</span
+          >
+          <span class="job-date">07/2025 – Present</span>
+        </div>
+        <div class="job-company">Dallas, USA (Remote)</div>
+        <ul>
+          <li>
+            Led backend development lifecycle from architecture to deployment
+          </li>
+          <li>
+            Architected secure, scalable deployment stack using AWS Cognito, App
+            Runner, ECR, and Docker
+          </li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <span class="job-title"
+            >API Integration & Automation Specialist —
+            <a href="https://www.reisearch.com/">ReiSearch</a></span
+          >
+          <span class="job-date">12/2024 – 04/2025</span>
+        </div>
+        <div class="job-company">Wyoming, USA (Remote)</div>
+        <ul>
+          <li>
+            Built automated CRM integration pipeline connecting GoHighLevel and
+            Home Depot
+          </li>
+          <li>
+            Reduced manual data entry by 90% and improved lead generation by 30%
+          </li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <span class="job-title"
+            >AI Developer — <a href="https://icog-labs.com/">iCog-Labs</a></span
+          >
+          <span class="job-date">08/2024 – 12/2024</span>
+        </div>
+        <div class="job-company">Addis Ababa, Ethiopia</div>
+        <ul>
+          <li>
+            Built RAG-based search engines and Neo4j recommendation system,
+            improving retrieval accuracy by 40%
+          </li>
+          <li>
+            Enhanced a wellness chatbot with conversational AI, increasing user
+            retention by 15%
+          </li>
+        </ul>
+      </div>
+
+      <div class="job">
+        <div class="job-header">
+          <span class="job-title"
+            >AI Researcher —
+            <a href="https://aii.et/"
+              >Ethiopian Artificial Intelligence Institute</a
+            ></span
+          >
+          <span class="job-date">03/2024 – 06/2024</span>
+        </div>
+        <div class="job-company">Addis Ababa, Ethiopia</div>
+        <ul>
+          <li>
+            Refined facial recognition systems, improving identification
+            accuracy by 10%
+          </li>
+          <li>
+            Advanced Amharic NLP models, reducing word error rate by 12% for
+            conversational AI
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Key Projects</div>
+
+      <div class="project">
+        <div class="project-title">
+          Conversion Engine —
+          <a href="https://github.com/IbnuEyni/Conversion-Engine"
+            >Automated Lead Generation System</a
+          >
+        </div>
+        <ul>
+          <li>
+            5-signal enrichment pipeline (Crunchbase, job posts, layoffs,
+            leadership changes, AI maturity scoring)
+          </li>
+          <li>
+            ICP classification, signal-grounded email composition, multi-turn
+            conversation management, CRM sync
+          </li>
+          <li>
+            Centralized state machine: NEW → EMAILED → REPLIED → QUALIFIED →
+            BOOKED
+          </li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <div class="project-title">
+          Automaton Auditor —
+          <a
+            href="https://github.com/IbnuEyni/10Acweek2/tree/main/automatoin-auditor"
+            >Multi-Agent Code Auditing System</a
+          >
+        </div>
+        <ul>
+          <li>
+            7-agent "Digital Courtroom" with LangGraph fan-out/fan-in
+            parallelism
+          </li>
+          <li>
+            3 detective agents + 3 judicial agents + deterministic synthesis
+          </li>
+          <li>Audits a repository in 45 seconds for $0.02</li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <div class="project-title">
+          Oracle Forge —
+          <a href="https://github.com/IbnuEyni/oracle-forge"
+            >Natural Language Data Analytics Agent</a
+          >
+        </div>
+        <ul>
+          <li>
+            Evaluated on DataAgentBench (54 queries, 12 datasets, 9 domains)
+          </li>
+          <li>
+            3-layer knowledge base injection: schema hints → domain knowledge →
+            corrections memory
+          </li>
+          <li>
+            35.2% pass@1 against 54.3% SOTA ceiling through pure context
+            engineering
+          </li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <div class="project-title">
+          Tenacious Sales Bench —
+          <a href="https://github.com/IbnuEyni/tenacious-sales-bench"
+            >Agent Evaluation Benchmark</a
+          >
+        </div>
+        <ul>
+          <li>
+            250 tasks across signal grounding, tone consistency, resource
+            honesty, and workflow correctness
+          </li>
+          <li>SimPO-trained judge model published on HuggingFace</li>
+          <li>Built from real failure traces of the Conversion Engine</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Education</div>
+      <div class="education-header">
+        <span
+          ><strong
+            >B.S. in Software Engineering and Computing Technologies (AI
+            Major)</strong
+          ></span
+        >
+        <span class="job-date">07/2025</span>
+      </div>
+      <div class="job-company">Addis Ababa University</div>
+      <div class="education-coursework">
+        Relevant Coursework: Data Structures & Algorithms, Operating Systems,
+        Web & Mobile Development, NLP, Machine Learning, Deep Learning
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Skills</div>
+      <div class="skills-grid">
+        <span class="skills-label">AI/Agent:</span>
+        <span class="skills-value"
+          >LangChain, LangGraph, OpenAI API, Gemini API, Groq, HuggingFace
+          Transformers</span
+        >
+        <span class="skills-label">Patterns:</span>
+        <span class="skills-value"
+          >Multi-agent orchestration, RAG, CQRS/Event Sourcing, context
+          engineering, evaluation design</span
+        >
+        <span class="skills-label">Backend:</span>
+        <span class="skills-value"
+          >Python (Advanced), FastAPI, Flask, Django, Node.js</span
+        >
+        <span class="skills-label">Data:</span>
+        <span class="skills-value"
+          >PostgreSQL, Neo4j, MongoDB, DynamoDB, NetworkX, Pydantic</span
+        >
+        <span class="skills-label">Cloud/DevOps:</span>
+        <span class="skills-value"
+          >AWS (Cognito, App Runner, ECR), Docker, Git, CI/CD</span
+        >
+        <span class="skills-label">Integrations:</span>
+        <span class="skills-value"
+          >GoHighLevel, HubSpot, Resend, Cal.com, Langfuse, LangSmith</span
+        >
+      </div>
+    </div>
+  </body>
+</html>
