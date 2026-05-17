@@ -1,0 +1,132 @@
+    INFO: 2026-05-17 22:05:23,652:               log.py:   20: Logging to /home/shuaib/Desktop/python/10Acd/github-profile/mdpdf.log
+   DEBUG: 2026-05-17 22:05:23,653:               cli.py:  103: /home/shuaib/Desktop/python/10Acd/github-profile/Resume-AI-Engineer.md
+    INFO: 2026-05-17 22:05:23,654:         converter.py:   14: /home/shuaib/Desktop/python/10Acd/github-profile/Resume-AI-Engineer.md
+   DEBUG: 2026-05-17 22:05:23,672:      pdf_renderer.py:  470: printSegment: Amir Ahmedin Temam
+   DEBUG: 2026-05-17 22:05:23,682:      pdf_renderer.py:  470: printSegment: shuaibahmedin@gmail.com | +251931680254 | Addis Ababa, Ethiopia
+   DEBUG: 2026-05-17 22:05:23,690:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:23,695:      pdf_renderer.py:  470: printSegment: GitHub
+   DEBUG: 2026-05-17 22:05:23,698:      pdf_renderer.py:  470: printSegment:  | 
+   DEBUG: 2026-05-17 22:05:23,701:      pdf_renderer.py:  470: printSegment: LinkedIn
+   DEBUG: 2026-05-17 22:05:23,704:      pdf_renderer.py:  470: printSegment:  | 
+   DEBUG: 2026-05-17 22:05:23,708:      pdf_renderer.py:  470: printSegment: HuggingFace
+   DEBUG: 2026-05-17 22:05:23,714:      pdf_renderer.py:  470: printSegment: Profile Summary
+   DEBUG: 2026-05-17 22:05:23,857:      pdf_renderer.py:  470: printSegment: AI Engineer specializing in multi-agent systems, evaluation benchmarks, and production automation pipelines.
+   DEBUG: 2026-05-17 22:05:23,917:      pdf_renderer.py:  470: printSegment: Shipped 9 AI agent systems in 12 weeks — from multi-tool orchestration to domain-specific benchmarks published on
+   DEBUG: 2026-05-17 22:05:23,980:      pdf_renderer.py:  470: printSegment: HuggingFace. Experienced in LLM integration, RAG architectures, CRM automation, and centralized agent
+   DEBUG: 2026-05-17 22:05:23,985:      pdf_renderer.py:  470: printSegment: coordination patterns.
+   DEBUG: 2026-05-17 22:05:23,991:      pdf_renderer.py:  470: printSegment: Professional Experience
+   DEBUG: 2026-05-17 22:05:23,995:      pdf_renderer.py:  470: printSegment: AI Agent Systems Engineer — 10 Academy
+   DEBUG: 2026-05-17 22:05:24,064:      pdf_renderer.py:  470: printSegment: 05/2025 – Present | Remote
+   DEBUG: 2026-05-17 22:05:24,104:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,111:      pdf_renderer.py:  470: printSegment: Built 9 production-grade AI agent systems across evaluation, orchestration, and data engineering
+   DEBUG: 2026-05-17 22:05:24,116:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,122:      pdf_renderer.py:  470: printSegment: Designed centralized orchestration patterns using LangGraph StateGraph with fan-out/fan-in
+   DEBUG: 2026-05-17 22:05:24,126:      pdf_renderer.py:  470: printSegment: parallelism
+   DEBUG: 2026-05-17 22:05:24,128:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,136:      pdf_renderer.py:  470: printSegment: Published a domain-specific benchmark (250 tasks) on HuggingFace with a SimPO-trained judge
+   DEBUG: 2026-05-17 22:05:24,139:      pdf_renderer.py:  470: printSegment: model
+   DEBUG: 2026-05-17 22:05:24,143:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,149:      pdf_renderer.py:  470: printSegment: Achieved 35.2% pass@1 on DataAgentBench through 3-layer context engineering (zero fine-tuning)
+   DEBUG: 2026-05-17 22:05:24,155:      pdf_renderer.py:  470: printSegment: Back-end Developer Project Lead — NextGen Solutions
+   DEBUG: 2026-05-17 22:05:24,161:      pdf_renderer.py:  470: printSegment: 07/2025 – Present | Dallas, USA (Remote)
+   DEBUG: 2026-05-17 22:05:24,165:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,170:      pdf_renderer.py:  470: printSegment: Led backend development lifecycle from architecture to deployment
+   DEBUG: 2026-05-17 22:05:24,174:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,181:      pdf_renderer.py:  470: printSegment: Architected secure, scalable deployment stack using AWS Cognito, App Runner, ECR, and Docker
+   DEBUG: 2026-05-17 22:05:24,186:      pdf_renderer.py:  470: printSegment: API Integration 
+   DEBUG: 2026-05-17 22:05:24,190:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-17 22:05:24,195:      pdf_renderer.py:  470: printSegment:  Automation Specialist — Calldi
+   DEBUG: 2026-05-17 22:05:24,200:      pdf_renderer.py:  470: printSegment: 12/2024 – 04/2025 | Wyoming, USA (Remote)
+   DEBUG: 2026-05-17 22:05:24,203:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,209:      pdf_renderer.py:  470: printSegment: Built automated CRM integration pipeline connecting GoHighLevel and Home Depot
+   DEBUG: 2026-05-17 22:05:24,213:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,219:      pdf_renderer.py:  470: printSegment: Reduced manual data entry by 90% and improved lead generation by 30%
+   DEBUG: 2026-05-17 22:05:24,223:      pdf_renderer.py:  470: printSegment: AI Developer — iCog-Labs
+   DEBUG: 2026-05-17 22:05:24,228:      pdf_renderer.py:  470: printSegment: 08/2024 – 12/2024 | Addis Ababa, Ethiopia
+   DEBUG: 2026-05-17 22:05:24,232:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,242:      pdf_renderer.py:  470: printSegment: Built RAG-based search engines and Neo4j recommendation system, improving retrieval accuracy
+   DEBUG: 2026-05-17 22:05:24,246:      pdf_renderer.py:  470: printSegment: by 40%
+   DEBUG: 2026-05-17 22:05:24,250:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,257:      pdf_renderer.py:  470: printSegment: Enhanced a wellness chatbot with conversational AI, increasing user retention by 15%
+   DEBUG: 2026-05-17 22:05:24,264:      pdf_renderer.py:  470: printSegment: AI Researcher — Ethiopian Artificial Intelligence Institute
+   DEBUG: 2026-05-17 22:05:24,269:      pdf_renderer.py:  470: printSegment: 03/2024 – 06/2024 | Addis Ababa, Ethiopia
+   DEBUG: 2026-05-17 22:05:24,275:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,282:      pdf_renderer.py:  470: printSegment: Refined facial recognition systems, improving identification accuracy by 10%
+   DEBUG: 2026-05-17 22:05:24,287:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,293:      pdf_renderer.py:  470: printSegment: Advanced Amharic NLP models, reducing word error rate by 12% for conversational AI
+   DEBUG: 2026-05-17 22:05:24,299:      pdf_renderer.py:  470: printSegment: Key Projects
+   DEBUG: 2026-05-17 22:05:24,305:      pdf_renderer.py:  470: printSegment: Conversion Engine — Automated Lead Generation System
+   DEBUG: 2026-05-17 22:05:24,308:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,316:      pdf_renderer.py:  470: printSegment: 5-signal enrichment pipeline (Crunchbase, job posts, layoffs, leadership changes, AI maturity
+   DEBUG: 2026-05-17 22:05:24,319:      pdf_renderer.py:  470: printSegment: scoring)
+   DEBUG: 2026-05-17 22:05:24,321:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,328:      pdf_renderer.py:  470: printSegment: ICP classification, signal-grounded email composition, multi-turn conversation management, CRM
+   DEBUG: 2026-05-17 22:05:24,331:      pdf_renderer.py:  470: printSegment: sync
+   DEBUG: 2026-05-17 22:05:24,334:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,338:      pdf_renderer.py:  470: printSegment: Centralized state machine: NEW → EMAILED → REPLIED → QUALIFIED → BOOKED
+   DEBUG: 2026-05-17 22:05:24,384:      pdf_renderer.py:  470: printSegment: Automaton Auditor — Multi-Agent Code Auditing System
+   DEBUG: 2026-05-17 22:05:24,386:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,389:      pdf_renderer.py:  470: printSegment: 7-agent 
+   DEBUG: 2026-05-17 22:05:24,392:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-17 22:05:24,395:      pdf_renderer.py:  470: printSegment: Digital Courtroom
+   DEBUG: 2026-05-17 22:05:24,397:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2026-05-17 22:05:24,401:      pdf_renderer.py:  470: printSegment:  with LangGraph fan-out/fan-in parallelism
+   DEBUG: 2026-05-17 22:05:24,404:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,408:      pdf_renderer.py:  470: printSegment: 3 detective agents + 3 judicial agents + deterministic synthesis
+   DEBUG: 2026-05-17 22:05:24,412:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,416:      pdf_renderer.py:  470: printSegment: Audits a repository in 45 seconds for $0.02
+   DEBUG: 2026-05-17 22:05:24,421:      pdf_renderer.py:  470: printSegment: Oracle Forge — Natural Language Data Analytics Agent
+   DEBUG: 2026-05-17 22:05:24,424:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,428:      pdf_renderer.py:  470: printSegment: Evaluated on DataAgentBench (54 queries, 12 datasets, 9 domains)
+   DEBUG: 2026-05-17 22:05:24,432:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,437:      pdf_renderer.py:  470: printSegment: 3-layer knowledge base injection: schema hints → domain knowledge → corrections memory
+   DEBUG: 2026-05-17 22:05:24,440:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,445:      pdf_renderer.py:  470: printSegment: 35.2% pass@1 against 54.3% SOTA ceiling through pure context engineering
+   DEBUG: 2026-05-17 22:05:24,450:      pdf_renderer.py:  470: printSegment: Tenacious Sales Bench — Agent Evaluation Benchmark
+   DEBUG: 2026-05-17 22:05:24,453:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,459:      pdf_renderer.py:  470: printSegment: 250 tasks across signal grounding, tone consistency, resource honesty, and workflow correctness
+   DEBUG: 2026-05-17 22:05:24,462:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,466:      pdf_renderer.py:  470: printSegment: SimPO-trained judge model published on HuggingFace
+   DEBUG: 2026-05-17 22:05:24,470:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2026-05-17 22:05:24,474:      pdf_renderer.py:  470: printSegment: Built from real failure traces of the Conversion Engine
+   DEBUG: 2026-05-17 22:05:24,480:      pdf_renderer.py:  470: printSegment: Education
+   DEBUG: 2026-05-17 22:05:24,486:      pdf_renderer.py:  470: printSegment: B.S. in Software Engineering and Computing Technologies (AI Major)
+   DEBUG: 2026-05-17 22:05:24,490:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:24,495:      pdf_renderer.py:  470: printSegment: Addis Ababa University | 07/2025
+   DEBUG: 2026-05-17 22:05:24,501:      pdf_renderer.py:  470: printSegment: Skills
+   DEBUG: 2026-05-17 22:05:24,505:      pdf_renderer.py:  470: printSegment: AI/Agent Frameworks:
+   DEBUG: 2026-05-17 22:05:24,510:      pdf_renderer.py:  470: printSegment:  LangChain, LangGraph, OpenAI API, Gemini API, Groq, HuggingFace Transformers
+   DEBUG: 2026-05-17 22:05:24,513:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:24,517:      pdf_renderer.py:  470: printSegment: Patterns:
+   DEBUG: 2026-05-17 22:05:24,523:      pdf_renderer.py:  470: printSegment:  Multi-agent orchestration, RAG, CQRS/Event Sourcing, context engineering, evaluation design
+   DEBUG: 2026-05-17 22:05:24,526:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:24,529:      pdf_renderer.py:  470: printSegment: Backend:
+   DEBUG: 2026-05-17 22:05:24,534:      pdf_renderer.py:  470: printSegment:  Python (Advanced), FastAPI, Flask, Django, Node.js
+   DEBUG: 2026-05-17 22:05:24,537:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:24,541:      pdf_renderer.py:  470: printSegment: Data:
+   DEBUG: 2026-05-17 22:05:24,547:      pdf_renderer.py:  470: printSegment:  PostgreSQL, Neo4j, MongoDB, DynamoDB,
+   DEBUG: 2026-05-17 22:05:24,551:      pdf_renderer.py:  470: printSegment: NetworkX, Pydantic
+   DEBUG: 2026-05-17 22:05:24,554:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:24,557:      pdf_renderer.py:  470: printSegment: Cloud 
+   DEBUG: 2026-05-17 22:05:24,561:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2026-05-17 22:05:24,564:      pdf_renderer.py:  470: printSegment:  DevOps:
+   DEBUG: 2026-05-17 22:05:24,569:      pdf_renderer.py:  470: printSegment:  AWS (Cognito, App Runner, ECR), Docker, Git, CI/CD
+   DEBUG: 2026-05-17 22:05:24,572:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2026-05-17 22:05:24,576:      pdf_renderer.py:  470: printSegment: Integrations:
+   DEBUG: 2026-05-17 22:05:24,583:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2026-05-17 22:05:24,586:      pdf_renderer.py:  470: printSegment: GoHighLevel, HubSpot, Resend, Cal.com, Langfuse, LangSmith
+   DEBUG: 2026-05-17 22:05:24,589:      pdf_renderer.py:   53: 0, [1, 'Amir Ahmedin Temam', 1, 68.0]
+   DEBUG: 2026-05-17 22:05:24,590:      pdf_renderer.py:   53: 1, [2, 'Profile Summary', 1, 136.0]
+   DEBUG: 2026-05-17 22:05:24,590:      pdf_renderer.py:   53: 2, [2, 'Professional Experience', 1, 235.60000000000002]
+   DEBUG: 2026-05-17 22:05:24,590:      pdf_renderer.py:   53: 3, [3, 'AI Agent Systems Engineer — 10 Academy', 1, 268.8]
+   DEBUG: 2026-05-17 22:05:24,590:      pdf_renderer.py:   53: 4, [3, 'Back-end Developer Project Lead — NextGen Solutions', 1, 399.59999999999997]
+   DEBUG: 2026-05-17 22:05:24,590:      pdf_renderer.py:   53: 5, [3, 'API Integration ', 1, 482.3999999999999]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 6, [3, 'AI Developer — iCog-Labs', 1, 565.1999999999999]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 7, [3, 'AI Researcher — Ethiopian Artificial Intelligence Institute', 1, 659.9999999999999]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 8, [2, 'Key Projects', 2, 116.80000000000001]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 9, [3, 'Conversion Engine — Automated Lead Generation System', 2, 150.00000000000003]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 10, [3, 'Automaton Auditor — Multi-Agent Code Auditing System', 2, 250.8]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 11, [3, 'Oracle Forge — Natural Language Data Analytics Agent', 2, 327.59999999999997]
+   DEBUG: 2026-05-17 22:05:24,591:      pdf_renderer.py:   53: 12, [3, 'Tenacious Sales Bench — Agent Evaluation Benchmark', 2, 404.3999999999999]
+   DEBUG: 2026-05-17 22:05:24,592:      pdf_renderer.py:   53: 13, [2, 'Education', 2, 493.5999999999999]
+   DEBUG: 2026-05-17 22:05:24,592:      pdf_renderer.py:   53: 14, [2, 'Skills', 2, 557.1999999999998]
