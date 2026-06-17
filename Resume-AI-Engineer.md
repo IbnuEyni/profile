@@ -15,7 +15,7 @@ AI Engineer specializing in multi-agent systems, evaluation benchmarks, and prod
 
 ### AI Agent Systems Engineer — [10 Academy](https://10academy.org/)
 
-**05/2025 – Present | Remote**
+**02/2026 – Present | Addis Ababa, Ethiopia(Remote)**
 
 - Built 9 production-grade AI agent systems across evaluation, orchestration, and data engineering
 - Designed centralized orchestration patterns using LangGraph StateGraph with fan-out/fan-in parallelism
@@ -24,7 +24,7 @@ AI Engineer specializing in multi-agent systems, evaluation benchmarks, and prod
 
 ### Back-end Developer Project Lead — NextGen Solutions
 
-**07/2025 – Present | Dallas, USA (Remote)**
+**07/2025 – 01/2026 | Dallas, USA (Remote)**
 
 - Led backend development lifecycle from architecture to deployment
 - Architected secure, scalable deployment stack using AWS Cognito, App Runner, ECR, and Docker
